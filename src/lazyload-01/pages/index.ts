@@ -1,3 +1,3 @@
 export { LazyPage3 } from "./LazyPage3";
-export { LazyPageOne } from "./LazyPageOne";
-export { LazyPageTwo } from "./LazyPageTwo";
+export { LazyPage1 } from "./LazyPage1";
+export { LazyPage2 } from "./LazyPage2";
